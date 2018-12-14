@@ -81,7 +81,7 @@ experiences:
       company: NotesHub
       details: |
         I am involved in planning and controlling changes, managing the quality and
-work done by interns and the team at NotesHub, a notes sharing platform for engineering students.
+        work done by interns and the team at NotesHub, a notes sharing platform for engineering students.
 
           
 
@@ -90,8 +90,8 @@ work done by interns and the team at NotesHub, a notes sharing platform for engi
       company: DeepPulse AI
       details: |
         I was assigned the task to create a machine learning library inspired by
-Tensorboard. Unfortunately, during this one month internship I was only able to
-build 2 modules for building dynamic generic graphs.
+        Tensorboard. Unfortunately, during this one month internship I was only able to
+        build 2 modules for building dynamic generic graphs.
 
 
 projects:
