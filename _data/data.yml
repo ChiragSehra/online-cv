@@ -13,13 +13,13 @@ sidebar:
 
     # Sidebar links
     email: chiragsehra42@gmail.com
-    phone: +91 99537 47103
+    phone: +91 8178424861
     website: medium.com/@chiragsehra42 #do not add http://
     linkedin: chirag-sehra-39194abb
     github: ChiragSehra
     gitlab:
     bitbucket:
-    twitter: '@Cheeku51'
+    twitter: '@HashChirag'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,7 +35,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Gaming
+      - item: Coding
         link:
 
       - item: Coding Everytime
@@ -53,9 +53,9 @@ career-profile:
 education:
     - degree: Bachelors in Information Technology
       university: Guru Gobind Singh Indraprastha University
-      time: 2015 - PRESENT
+      time: 2015 - 2019
       details: |
-        I will be completing my Under Graduation with current 8.9 GPA.
+        Completed my graduation with 8.9 CGPA.
 
     - degree: Class 12th
       university: CBSE
@@ -64,6 +64,14 @@ education:
         I completed my twelfth grade with 91%.
 
 experiences:
+
+    - role: Data Scientist
+      time: July 2019 - Present
+      company: Valiance Analytics
+      details: |
+              I am a Data Scientist at Valiance Solutions helping people build AI solutions to make world a better place. I have a knack for creative ideas and thinking out of the box. 
+
+
     - role: Development IT Intern
       time: July 2018 - Present
       company: SouthSide Medical Services LLP
@@ -76,24 +84,6 @@ experiences:
           - Power BI
           - Salesforce Development
 
-    - role: Operations Manager
-      time: April 2016 - PRESENT
-      company: NotesHub
-      details: |
-        I am involved in planning and controlling changes, managing the quality and
-        work done by interns and the team at NotesHub, a notes sharing platform for engineering students.
-
-          
-
-    - role: Machine Learning Intern
-      time: April 2018 - June 2018
-      company: DeepPulse AI
-      details: |
-        I was assigned the task to create a machine learning library inspired by
-        Tensorboard. Unfortunately, during this one month internship I was only able to
-        build 2 modules for building dynamic generic graphs.
-
-
 projects:
     title: Projects
     intro: >
@@ -104,54 +94,18 @@ projects:
         link: "#hook"
         tagline: " Detecting number plates and deducting Challan amounts directly from bank account and notifying the family members where you were not following traffic rules."
 
-      - title: Ultra Vision
+      - title: Social Distancing and Mask and Temperature Detection
         link: "#"
-        tagline: "Automated Attendance System on AWS Cloud"
+        tagline: "Monitoring if social distancing is being followed, alongwith mask detection accompanied by temperature sensing of employees in an office"
 
-      - title: Personal Product Designer
+      - title: Animal Species Detection
         link: "#"
-        tagline: "Helps people like me to create drawings and art."
+        tagline: "Determining the species of the animal from motion sensing cameras. This was achieved by computer vision followed by advanced transfer learning architectures."
 
-      - title: Image Processing for Blinds
+      - title: Handwriting Recognition on Form Documents
         link: "#"
-        tagline: "Image to Speech Conversion of surrondings."
+        tagline: "Built a handwriting recognition system that helps in extracting out information from forms filled by students for scholarships and saving it to the database in a text searchable format."
 
-      - title: Text Generator
-        link: "#"
-        tagline: "Generating novels based on a given genre."
-        
-      - title: Soft Self Driving Car
-        link: "#"
-        tagline: "Self Driving Car on Udacity's emulator."
-        
-      - title: Neural Art
-        link: "#"
-        tagline: "Cloning the algorithm if Deep Dream and Neural"
-        
-      - title: Face Emotion Recognizer
-        link: "#"
-        tagline: "Analyzing your emotions from your smartphone camera."
-        
-
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-
-#     papers:
-#       - title: The Art of Computer Programming
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -160,23 +114,17 @@ skills:
       - name: Python
         level: 80%
 
-      - name: Power BI
+      - name: Machine Learning
         level: 80%
 
       - name: Computer Vision
-        level: 98%
+        level: 90%
 
       - name: Natural Language Processing
-        level: 95%
+        level: 85%
 
-      - name: Salesforce
-        level: 75%
+      - name: Ethereum
+        level: 40%
 
-      - name: Azure Data Factory
-        level: 60%
-
-      - name: Tensorflow
-        level: 80%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
